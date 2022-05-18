@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Deep Learning
 - 🤔 I’m looking for help with Deep Learning & NLP
 - 💬 Ask me about Data Science, Machine Learning, Deep Learning
-- 📫 How to reach me: https://www.linkedin.com/in/sushwet/
+- 📫 How to reach me: https://www.linkedin.com/in/sushwet
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: There's a lot of potential that goes unused in India, a lot of brilliant, smart people who just don't have that chance to show it.
+- ⚡ Fun fact: Some AI enthusiast believe that marriage between humans and robots will be made legal by 2050.
 
 <!--
 **s-kp/s-kp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
