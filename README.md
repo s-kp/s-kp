@@ -1,7 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Data Science Projects
-- 🌱 I’m currently learning Deep Learning
-- 🤔 I’m looking for help with Deep Learning & NLP
 - 💬 Ask me about Data Science, Machine Learning, Deep Learning
 - 📫 How to reach me: https://www.linkedin.com/in/sushwet
 - 😄 Pronouns: He/Him
